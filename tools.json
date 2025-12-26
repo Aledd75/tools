@@ -1,0 +1,98 @@
+{
+    "HWMonitor": {
+        "Url": "https://download.cpuid.com/hwmonitor/hwmonitor_1.60.zip",
+        "File": "hwmonitor.zip",
+        "Pattern": "hwmonitor.exe",
+        "Backup": "https://www.cpuid.com/softwares/hwmonitor.html"
+    },
+    "OCCT": {
+        "Url": "https://www.ocbase.com/download/OCCT.exe",
+        "File": "OCCT.exe",
+        "Pattern": "OCCT.exe",
+        "Backup": "https://www.ocbase.com/"
+    },
+    "FurMark": {
+        "Url": "https://geeks3d.com/dl/get/830",
+        "File": "FurMark.zip",
+        "Pattern": "FurMark_GUI.exe",
+        "Backup": "https://geeks3d.com/furmark/downloads/"
+    },
+    "Prime95": {
+        "Url": "https://www.mersenne.org/ftp_root/gimps/p95v308b17.win64.zip",
+        "File": "prime95.zip",
+        "Pattern": "prime95.exe",
+        "Backup": "https://www.mersenne.org/download/"
+    },
+    "DiskGenius": {
+        "Url": "https://www.diskgenius.com/dyna_download/?software=DGEng6111742_x64.zip",
+        "File": "DiskGenius.zip",
+        "Pattern": "DiskGenius.exe",
+        "Backup": "https://www.diskgenius.com/"
+    },
+    "Recuva": {
+        "Url": "https://www.ccleaner.com/go/get_recuva_portable",
+        "File": "recuva.zip",
+        "Pattern": "recuva.exe",
+        "Backup": "https://recuva.br.uptodown.com/windows/download"
+    },
+    "DMDE": {
+        "Url": "https://dmde.com/download/dmde-4-0-6-806-win64-gui.zip",
+        "File": "dmde.zip",
+        "Pattern": "dmde.exe",
+        "Backup": "https://dmde.com/download.html"
+    },
+    "Puran": {
+        "Url": "https://www.puransoftware.com/downloads/PuranFileRecoveryX64.zip",
+        "File": "Puran.zip",
+        "Pattern": "Puran.exe",
+        "Backup": "http://www.puransoftware.com/File-Recovery-Download.html"
+    },
+    "TestDisk": {
+        "Url": "https://www.cgsecurity.org/testdisk-7.2.win.zip",
+        "File": "testdisk.zip",
+        "Pattern": "qphotorec_win.exe",
+        "Backup": "https://www.cgsecurity.org/wiki/PhotoRec"
+    },
+    "MSERT": {
+        "Url": "https://go.microsoft.com/fwlink/?LinkId=212732",
+        "File": "msert.exe",
+        "Pattern": "msert.exe",
+        "Backup": "https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download"
+    },
+    "KVRT": {
+        "Url": "https://devbuilds.s.kaspersky-labs.com/devbuilds/KVRT/latest/full/KVRT.exe",
+        "File": "KVRT.exe",
+        "Pattern": "KVRT.exe",
+        "Backup": "https://www.kaspersky.com/downloads/free-virus-removal-tool"
+    },
+    "AdwCleaner": {
+        "Url": "https://downloads.malwarebytes.com/file/adwcleaner",
+        "File": "adwcleaner.exe",
+        "Pattern": "adwcleaner.exe",
+        "Backup": "https://www.malwarebytes.com/adwcleaner"
+    },
+    "Lazesoft": {
+        "Url": "https://www.lazesoft.com/lazesoftrecovermydata.exe",
+        "File": "lazesoftrecover.exe",
+        "Pattern": "lazesoftrecover.exe",
+        "Backup": "https://www.lazesoft.com/download.html"
+    },
+    "AnyDesk": {
+        "Url": "https://download.anydesk.com/AnyDesk.exe",
+        "File": "AnyDesk.exe",
+        "Pattern": "AnyDesk.exe",
+        "Backup": "https://download.anydesk.com"
+    },
+    "TeamViewer": {
+        "Url": "https://download.teamviewer.com/download/TeamViewerQS.exe",
+        "File": "TeamViewerQS.exe",
+        "Pattern": "TeamViewerQS.exe",
+        "Backup": "https://download.teamviewer.com"
+    },
+    "RustDesk": {
+        "Url": "https://github.com/rustdesk/rustdesk/releases/download/1.2.3/rustdesk-1.2.3-x86_64.exe",
+        "File": "rustdesk.exe",
+        "Pattern": "rustdesk.exe",
+        "Backup": "https://github.com"
+    }
+}
