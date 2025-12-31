@@ -3,21 +3,20 @@
   { "Category": "Clima", "Name": "Bing Weather", "Id": "Microsoft.BingWeather", "StoreId": "9WZDNCRFJ3Q2" },
   { "Category": "Sistema", "Name": "Get Help (Ajuda)", "Id": "Microsoft.GetHelp", "StoreId": "9PKDZBMV1H3T" },
   { "Category": "Sistema", "Name": "Dicas (Get Started)", "Id": "Microsoft.Getstarted", "StoreId": "9MSPC6MP8FM4" },
-  { "Category": "Mídia", "Name": "Media Player (Groove)", "Id": "Microsoft.ZuneMusic", "StoreId": "9WZDNCRFJ3PT" },
+  { "Category": "Mídia", "Name": "Media Player", "Id": "Microsoft.ZuneMusic", "StoreId": "9WZDNCRFJ3PT", "Note": "Substituiu Groove Music em 2023" },
   { "Category": "Mídia", "Name": "Filmes e TV", "Id": "Microsoft.ZuneVideo", "StoreId": "9WZDNCRFJ3P2" },
   { "Category": "Ferramentas", "Name": "Alarmes e Relógio", "Id": "Microsoft.WindowsAlarms", "StoreId": "9WZDNCRFJ3PR" },
   { "Category": "Ferramentas", "Name": "Gravador de Voz", "Id": "Microsoft.WindowsSoundRecorder", "StoreId": "9WZDNCRFHWKN" },
   { "Category": "3D", "Name": "3D Viewer", "Id": "Microsoft.Microsoft3DViewer", "StoreId": "9NBLGGH42THS" },
-  { "Category": "Office", "Name": "Office Hub", "Id": "Microsoft.MicrosoftOfficeHub", "StoreId": "9WZDNCRD29V9" },
+  { "Category": "Office", "Name": "Microsoft 365", "Id": "Microsoft.MicrosoftOfficeHub", "StoreId": "9WZDNCRD29V9", "Note": "Renomeado de Office Hub" },
   { "Category": "Jogos", "Name": "Solitaire Collection", "Id": "Microsoft.MicrosoftSolitaireCollection", "StoreId": "9WZDNCRFHVN5" },
   { "Category": "Xbox", "Name": "Xbox Game Bar", "Id": "Microsoft.XboxGamingOverlay", "StoreId": "9NZKPSTSNW4P" },
   { "Category": "Mapas", "Name": "Windows Maps", "Id": "Microsoft.WindowsMaps", "StoreId": "9WZDNCRFJ2XB" },
   { "Category": "Social", "Name": "Pessoas (People)", "Id": "Microsoft.People", "StoreId": "9NBLGGH10WW6" },
-  { "Category": "Sistema", "Name": "Vínculo Móvel", "Id": "Microsoft.YourPhone", "StoreId": "9NMPJ99VJBWV" },
+  { "Category": "Sistema", "Name": "Phone Link", "Id": "Microsoft.YourPhone", "StoreId": "9NMPJ99VJBWV", "Note": "Renomeado de Vínculo Móvel/Your Phone" },
   { "Category": "Produtividade", "Name": "OneNote", "Id": "Microsoft.Office.OneNote", "StoreId": "9WZDNCRFHVJL" },
   { "Category": "Sistema", "Name": "Calculadora", "Id": "Microsoft.WindowsCalculator", "StoreId": "9WZDNCRFJ3QM" },
   { "Category": "Imagens", "Name": "Fotos", "Id": "Microsoft.Windows.Photos", "StoreId": "9WZDNCRFJ3QP" },
-  { "Category": "Sistema", "Name": "Cortana", "Id": "Microsoft.549981C3F5F10", "StoreId": "9NFFX4SZZ23L" },
   { "Category": "Sistema", "Name": "Feedback Hub", "Id": "Microsoft.WindowsFeedbackHub", "StoreId": "9NBLGGH4R32N" },
   { "Category": "Social", "Name": "Skype", "Id": "Microsoft.SkypeApp", "StoreId": "9WZDNCRFJ364" },
   { "Category": "Produtividade", "Name": "Sticky Notes (Anotações)", "Id": "Microsoft.MicrosoftStickyNotes", "StoreId": "9NBLGGH4QGHW" },
@@ -25,4 +24,5 @@
   { "Category": "Sistema", "Name": "Assistência Rápida", "Id": "Microsoft.QuickAssist", "StoreId": "9P7BP5VNWKX5" },
   { "Category": "Mídia", "Name": "Paint (Moderno)", "Id": "Microsoft.Paint", "StoreId": "9PCFS5B6T72H" }
 ]
+
 
