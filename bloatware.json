@@ -16,5 +16,13 @@
   { "Category": "Sistema", "Name": "Vínculo Móvel", "Id": "Microsoft.YourPhone", "StoreId": "9NMPJ99VJBWV" },
   { "Category": "Produtividade", "Name": "OneNote", "Id": "Microsoft.Office.OneNote", "StoreId": "9WZDNCRFHVJL" },
   { "Category": "Sistema", "Name": "Calculadora", "Id": "Microsoft.WindowsCalculator", "StoreId": "9WZDNCRFJ3QM" },
-  { "Category": "Imagens", "Name": "Fotos", "Id": "Microsoft.Windows.Photos", "StoreId": "9WZDNCRFJ3QP" }
+  { "Category": "Imagens", "Name": "Fotos", "Id": "Microsoft.Windows.Photos", "StoreId": "9WZDNCRFJ3QP" },
+  { "Category": "Sistema", "Name": "Cortana", "Id": "Microsoft.549981C3F5F10", "StoreId": "9NFFX4SZZ23L" },
+  { "Category": "Sistema", "Name": "Feedback Hub", "Id": "Microsoft.WindowsFeedbackHub", "StoreId": "9NBLGGH4R32N" },
+  { "Category": "Social", "Name": "Skype", "Id": "Microsoft.SkypeApp", "StoreId": "9WZDNCRFJ364" },
+  { "Category": "Produtividade", "Name": "Sticky Notes (Anotações)", "Id": "Microsoft.MicrosoftStickyNotes", "StoreId": "9NBLGGH4QGHW" },
+  { "Category": "Produtividade", "Name": "Microsoft To Do", "Id": "Microsoft.Todos", "StoreId": "9NBLGGH5R558" },
+  { "Category": "Sistema", "Name": "Assistência Rápida", "Id": "Microsoft.QuickAssist", "StoreId": "9P7BP5VNWKX5" },
+  { "Category": "Mídia", "Name": "Paint (Moderno)", "Id": "Microsoft.Paint", "StoreId": "9PCFS5B6T72H" }
 ]
+
