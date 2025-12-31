@@ -11,7 +11,7 @@
   { "Category": "Office", "Name": "Microsoft 365", "Id": "Microsoft.MicrosoftOfficeHub", "StoreId": "9WZDNCRD29V9"},
   { "Category": "Jogos", "Name": "Solitaire Collection", "Id": "Microsoft.MicrosoftSolitaireCollection", "StoreId": "9WZDNCRFHVN5" },
   { "Category": "Xbox", "Name": "Xbox Game Bar", "Id": "Microsoft.XboxGamingOverlay", "StoreId": "9NZKPSTSNW4P" },
-  { "Category": "Sistema", "Name": "Phone Link", "Id": "Microsoft.YourPhone", "StoreId": "9NMPJ99VJBWV",},
+  { "Category": "Sistema", "Name": "Phone Link", "Id": "Microsoft.YourPhone", "StoreId": "9NMPJ99VJBWV"},
   { "Category": "Produtividade", "Name": "OneNote for Windows 10", "Id": "Microsoft.Office.OneNote", "StoreId": "9WZDNCRFHVJL" },
   { "Category": "Sistema", "Name": "Calculadora", "Id": "Microsoft.WindowsCalculator", "StoreId": "9WZDNCRFJ3QM" },
   { "Category": "Imagens", "Name": "Fotos Microsoft", "Id": "Microsoft.Windows.Photos", "StoreId": "9WZDNCRFJBH4" },
@@ -21,6 +21,7 @@
   { "Category": "Sistema", "Name": "Assistência Rápida", "Id": "Microsoft.QuickAssist", "StoreId": "9P7BP5VNWKX5" },
   { "Category": "Mídia", "Name": "Paint (Moderno)", "Id": "Microsoft.Paint", "StoreId": "9PCFS5B6T72H" }
 ]
+
 
 
 
