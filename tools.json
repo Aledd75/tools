@@ -42,9 +42,9 @@
         "Backup": "https://dmde.com/download.html"
     },
     "Puran": {
-        "Url": "https://www.puransoftware.com/downloads/PuranFileRecoveryX64.zip",
-        "File": "Puran.zip",
-        "Pattern": "Puran File Recovery.exe",
+        "Url": "https://www.puransoftware.com/PuranFileRecoverySetup.exe",
+        "File": "PuranFileRecoverySetup.exe",
+        "Pattern": "PuranFileRecoverySetup.exe",
         "Backup": "http://www.puransoftware.com/File-Recovery-Download.html"
     },
     "TestDisk": {
