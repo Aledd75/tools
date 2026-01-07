@@ -44,7 +44,7 @@
     "Puran": {
         "Url": "https://www.puransoftware.com/downloads/PuranFileRecoveryX64.zip",
         "File": "Puran.zip",
-        "Pattern": "Puran.exe",
+        "Pattern": "Puran File Recovery.exe",
         "Backup": "http://www.puransoftware.com/File-Recovery-Download.html"
     },
     "TestDisk": {
