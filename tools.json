@@ -72,7 +72,7 @@
         "Backup": "https://www.malwarebytes.com/adwcleaner"
     },
     "Lazesoft": {
-        "Url": "https://www.lazesoft.com/lazesoftrecovermydata.exe",
+        "Url": "https://www.lazesoft.com/downloads/lsrshsetup.exe",
         "File": "lazesoftrecover.exe",
         "Pattern": "lazesoftrecover.exe",
         "Backup": "https://www.lazesoft.com/download.html"
