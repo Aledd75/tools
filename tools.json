@@ -30,7 +30,7 @@
         "Backup": "https://www.diskgenius.com/"
     },
     "Recuva": {
-        "Url": "https://www.ccleaner.com/go/get_recuva_portable",
+        "Url": "https://portableapps.com/downloading/?a=rcvPortable&s=s&p=&d=pa&n=rcvPortable&f=rcvPortable_1.54.120_online.paf.exe",
         "File": "recuva.zip",
         "Pattern": "recuva.exe",
         "Backup": "https://recuva.br.uptodown.com/windows/download"
