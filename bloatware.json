@@ -18,9 +18,10 @@
   { "Category": "Sistema", "Name": "Feedback Hub", "Id": "Microsoft.WindowsFeedbackHub", "StoreId": "9NBLGGH4R32N" },
   { "Category": "Produtividade", "Name": "Notas Autoadesivas da Microsoft", "Id": "Microsoft.MicrosoftStickyNotes", "StoreId": "9NBLGGH4QGHW" },
   { "Category": "Produtividade", "Name": "Microsoft To Do", "Id": "Microsoft.Todos", "StoreId": "9NBLGGH5R558" },
-  { "Category": "Sistema", "Name": "Assistência Rápida", "Id": "Microsoft.QuickAssist", "StoreId": "9P7BP5VNWKX5" },
+  { "Category": "Sistema", "Name": "Assistência Rápida", "Id": "QuickAssist", "StoreId": "9P7BP5VNWKX5" },
   { "Category": "Mídia", "Name": "Paint (Moderno)", "Id": "Microsoft.Paint", "StoreId": "9PCFS5B6T72H" }
 ]
+
 
 
 
