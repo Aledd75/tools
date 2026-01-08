@@ -4,11 +4,9 @@
   { "Category": "Mídia", "Name": "Filmes e TV", "Id": "Microsoft.ZuneVideo", "StoreId": "9WZDNCRFJ3P2" },
   { "Category": "Ferramentas", "Name": "Gravador de Voz", "Id": "Microsoft.WindowsSoundRecorder", "StoreId": "9WZDNCRFHWKN" },
   { "Category": "3D", "Name": "3D Viewer", "Id": "Microsoft.Microsoft3DViewer", "StoreId": "9NBLGGH42THS" },
-  { "Category": "Jogos", "Name": "Solitaire Collection", "Id": "MicrosoftSolitaireCollection", "StoreId": "9WZDNCRFHVN5" },
   { "Category": "Xbox", "Name": "Xbox Game Bar", "Id": "Microsoft.XboxGamingOverlay", "StoreId": "9NZKPSTSNW4P" },
   { "Category": "Sistema", "Name": "Phone Link", "Id": "Microsoft.YourPhone", "StoreId": "9NMPJ99VJBWV" },
   { "Category": "Produtividade", "Name": "OneNote", "Id": "Microsoft.Office.OneNote", "StoreId": "9WZDNCRFHVJL" },
-  { "Category": "Sistema", "Name": "Calculadora", "Id": "Microsoft.WindowsCalculator", "StoreId": "9WZDNCRFJ3QM" },
   { "Category": "Imagens", "Name": "Fotos", "Id": "Microsoft.Windows.Photos", "StoreId": "9WZDNCRFJBH4" },
   { "Category": "Sistema", "Name": "Feedback Hub", "Id": "Microsoft.WindowsFeedbackHub", "StoreId": "9NBLGGH4R32N" },
   { "Category": "Produtividade", "Name": "Sticky Notes", "Id": "MicrosoftStickyNotes", "StoreId": "9NBLGGH4QGHW" },
@@ -17,6 +15,7 @@
   { "Category": "Produtividade", "Name": "Microsoft 365 (Office)", "Id": "MicrosoftOfficeHub", "StoreId": "9WZDNCRD29V9" },
   { "Category": "Produtividade", "Name": "Microsoft To Do", "Id": "Todos", "StoreId": "9NBLGGH5R558" }
 ]
+
 
 
 
