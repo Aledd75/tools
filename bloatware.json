@@ -9,7 +9,7 @@
   { "Category": "Ferramentas", "Name": "Microsoft Whiteboard", "Id": "Microsoft.Whiteboard", "StoreId": "9MSPC6MP8FM4" },
   { "Category": "3D", "Name": "3D Viewer", "Id": "Microsoft.Microsoft3DViewer", "StoreId": "9NBLGGH42THS" },
   { "Category": "Office", "Name": "Microsoft 365", "Id": "Microsoft.MicrosoftOfficeHub", "StoreId": "9WZDNCRD29V9"},
-  { "Category": "Jogos", "Name": "Solitaire Collection", "Id": "Microsoft.MicrosoftSolitaireCollection", "StoreId": "9WZDNCRFHVN5" },
+  { "Category": "Jogos", "Name": "Simple Solitaire", "Id": "SimpleSolitaire", "StoreId": "9WZDNCRFHVN5" },
   { "Category": "Xbox", "Name": "Xbox Game Bar", "Id": "Microsoft.XboxGamingOverlay", "StoreId": "9NZKPSTSNW4P" },
   { "Category": "Sistema", "Name": "Phone Link", "Id": "Microsoft.YourPhone", "StoreId": "9NMPJ99VJBWV"},
   { "Category": "Produtividade", "Name": "OneNote for Windows 10", "Id": "Microsoft.Office.OneNote", "StoreId": "9WZDNCRFHVJL" },
@@ -21,6 +21,7 @@
   { "Category": "Sistema", "Name": "Assistência Rápida", "Id": "QuickAssist", "StoreId": "9P7BP5VNWKX5" },
   { "Category": "Mídia", "Name": "Paint (Moderno)", "Id": "Microsoft.Paint", "StoreId": "9PCFS5B6T72H" }
 ]
+
 
 
 
