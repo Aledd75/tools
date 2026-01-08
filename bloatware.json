@@ -2,7 +2,6 @@
   { "Category": "Notícias", "Name": "Bing News", "Id": "Microsoft.BingNews", "StoreId": "9WZDNCRFHVFW" },
   { "Category": "Clima", "Name": "Bing Weather", "Id": "Microsoft.BingWeather", "StoreId": "9WZDNCRFJ3Q2" },
   { "Category": "Sistema", "Name": "Get Help (Ajuda)", "Id": "Microsoft.GetHelp", "StoreId": "9PKDZBMV1H3T" },
-  { "Category": "Sistema", "Name": "Dicas (Get Started)", "Id": "Microsoft.Getstarted", "StoreId": "9MSPC6MP8FM4" },
   { "Category": "Mídia", "Name": "Media Player", "Id": "Microsoft.ZuneMusic", "StoreId": "9WZDNCRFJ3PT"},
   { "Category": "Mídia", "Name": "Filmes e TV", "Id": "Microsoft.ZuneVideo", "StoreId": "9WZDNCRFJ3P2" },
   { "Category": "Ferramentas", "Name": "Gravador de Voz", "Id": "Microsoft.WindowsSoundRecorder", "StoreId": "9WZDNCRFHWKN" },
@@ -21,6 +20,7 @@
   { "Category": "Sistema", "Name": "Assistência Rápida", "Id": "QuickAssist", "StoreId": "9P7BP5VNWKX5" },
   { "Category": "Mídia", "Name": "Paint (Moderno)", "Id": "Microsoft.Paint", "StoreId": "9PCFS5B6T72H" }
 ]
+
 
 
 
