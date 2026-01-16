@@ -11,7 +11,6 @@
   { "Category": "Gamer", "Name": "Epic Games Launcher", "Id": "EpicGames.EpicGamesLauncher" },
   { "Category": "Gamer", "Name": "Ubisoft Connect", "Id": "Ubisoft.Connect" },
   { "Category": "Gamer", "Name": "EA Desktop", "Id": "ElectronicArts.EADesktop" },
-  { "Category": "Gamer", "Name": "Xbox App", "Id": "Microsoft.Xbox" },
   { "Category": "Gamer", "Name": "Visual C++ 2015+ (x64)", "Id": "Microsoft.VCRedist.2015+.x64" },
   { "Category": "Dev", "Name": "VS Code", "Id": "Microsoft.VisualStudioCode" },
   { "Category": "Dev", "Name": "Notepad++", "Id": "Notepad++.Notepad++" },
@@ -25,3 +24,4 @@
   { "Category": "Dev", "Name": "Python 3.14", "Id": "Python.Python.3.14" },
   { "Category": "Dev", "Name": "PostgreSQL 18", "Id": "PostgreSQL.PostgreSQL.18" }
 ]
+
