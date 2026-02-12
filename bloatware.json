@@ -16,12 +16,12 @@
   { "Category": "Ferramentas", "Name": "Calculadora", "Id": "WindowsCalculator", "StoreId": "9WZDNCRFHVN5" },
   { "Category": "Ferramentas", "Name": "Alarmes e Relógio", "Id": "WindowsAlarms", "StoreId": "9WZDNCRFJ3PR" },
   { "Category": "Mídia", "Name": "Câmera", "Id": "WindowsCamera", "StoreId": "9WZDNCRFJBBG" },
-  { "Category": "Produtividade", "Name": "Mapas", "Id": "WindowsMaps", "StoreId": "9WZDNCRFJ329" },
   { "Category": "Produtividade", "Name": "Email e Calendário", "Id": "windowscommunicationsapps", "StoreId": "9WZDNCRFHVQM" },
   { "Category": "Ferramentas", "Name": "Ferramenta de Captura", "Id": "ScreenSketch", "StoreId": "9MZ95KL8MR0L" },
   { "Category": "Produtividade", "Name": "Microsoft To Do", "Id": "Todos", "StoreId": "9NBLGGH5R558" },
   { "Category": "Produtividade", "Name": "Bloco de Notas", "Id": "WindowsNotepad", "StoreId": "9MSPC6MP8FM4" }
 ]
+
 
 
 
