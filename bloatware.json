@@ -9,7 +9,6 @@
   { "Category": "Imagens", "Name": "Fotos", "Id": "Windows.Photos", "StoreId": "9WZDNCRFJBH4" },
   { "Category": "Sistema", "Name": "Feedback Hub", "Id": "WindowsFeedbackHub", "StoreId": "9NBLGGH4R32N" },
   { "Category": "Produtividade", "Name": "Sticky Notes", "Id": "StickyNotes", "StoreId": "9NBLGGH4QGHW" },
-  { "Category": "Produtividade", "Name": "OneNote", "Id": "OneNote", "StoreId": "XPFFZHVGQWWLHB" },
   { "Category": "Sistema", "Name": "Assistência Rápida", "Id": "QuickAssist", "StoreId": "9P7BP5VNWKX5" },
   { "Category": "Mídia", "Name": "Paint", "Id": "Paint", "StoreId": "9PCFS5B6T72H" },
   { "Category": "Mídia", "Name": "Spotify", "Id": "Spotify", "StoreId": "9NCBCSZSJRSB" },
@@ -21,6 +20,7 @@
   { "Category": "Produtividade", "Name": "Microsoft To Do", "Id": "Todos", "StoreId": "9NBLGGH5R558" },
   { "Category": "Produtividade", "Name": "Bloco de Notas", "Id": "WindowsNotepad", "StoreId": "9MSPC6MP8FM4" }
 ]
+
 
 
 
