@@ -6,7 +6,7 @@
   { "Category": "3D", "Name": "3D Viewer", "Id": "3DViewer", "StoreId": "9NBLGGH42THS" },
   { "Category": "Xbox", "Name": "Xbox Game Bar", "Id": "GamingOverlay", "StoreId": "9NZKPSTSNW4P" },
   { "Category": "Sistema", "Name": "Vincular Celular", "Id": "YourPhone", "StoreId": "9NMPJ99VJBWV" },
-  { "Category": "Produtividade", "Name": "OneNote", "Id": "OneNote", "StoreId": "9WZDNCRFHVJL" },
+  { "Category": "Produtividade", "Name": "OneNote", "Id": "OneNote", "StoreId": "Microsoft.OneNote" }
   { "Category": "Imagens", "Name": "Fotos", "Id": "Windows.Photos", "StoreId": "9WZDNCRFJBH4" },
   { "Category": "Sistema", "Name": "Feedback Hub", "Id": "WindowsFeedbackHub", "StoreId": "9NBLGGH4R32N" },
   { "Category": "Produtividade", "Name": "Sticky Notes", "Id": "StickyNotes", "StoreId": "9NBLGGH4QGHW" },
@@ -21,6 +21,7 @@
   { "Category": "Produtividade", "Name": "Microsoft To Do", "Id": "Todos", "StoreId": "9NBLGGH5R558" },
   { "Category": "Produtividade", "Name": "Bloco de Notas", "Id": "WindowsNotepad", "StoreId": "9MSPC6MP8FM4" }
 ]
+
 
 
 
