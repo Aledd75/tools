@@ -6,7 +6,7 @@
   { "Category": "Essenciais", "Name": "VLC Media Player", "Id": "VideoLAN.VLC" },
   { "Category": "Essenciais", "Name": "Bitwarden", "Id": "Bitwarden.Bitwarden" },
   { "Category": "Essenciais", "Name": "Avast Free Antivirus", "Id": "AVASTSoftware.AvastFreeAntivirus" },
-  { "Category": "Essenciais", "Name": "One Note", "Id": "Microsoft.OneNote" }
+  { "Category": "Essenciais", "Name": "OneNote", "Id": "OneNote", "StoreId": "Microsoft.OneNote" }
   { "Category": "Gamer", "Name": "Steam", "Id": "Valve.Steam" },
   { "Category": "Gamer", "Name": "Discord", "Id": "Discord.Discord" },
   { "Category": "Gamer", "Name": "OBS Studio", "Id": "OBSProject.OBSStudio" },
@@ -26,6 +26,7 @@
   { "Category": "Dev", "Name": "Python 3.14", "Id": "Python.Python.3.14" },
   { "Category": "Dev", "Name": "PostgreSQL 18", "Id": "PostgreSQL.PostgreSQL.18" }
 ]
+
 
 
 
