@@ -1,25 +1,26 @@
 [
-  { "Category": "Notícias", "Name": "Bing News", "Id": "BingNews", "StoreId": "9WZDNCRFHVFW" },
-  { "Category": "Clima", "Name": "Bing Weather", "Id": "BingWeather", "StoreId": "9WZDNCRFJ3Q2" },
-  { "Category": "Mídia", "Name": "Filmes e TV", "Id": "ZuneVideo", "StoreId": "9WZDNCRFJ3P2" },
-  { "Category": "Ferramentas", "Name": "Gravador", "Id": "SoundRecorder", "StoreId": "9WZDNCRFHWKN" },
-  { "Category": "3D", "Name": "3D Viewer", "Id": "3DViewer", "StoreId": "9NBLGGH42THS" },
-  { "Category": "Xbox", "Name": "Xbox Game Bar", "Id": "GamingOverlay", "StoreId": "9NZKPSTSNW4P" },
-  { "Category": "Sistema", "Name": "Vincular Celular", "Id": "YourPhone", "StoreId": "9NMPJ99VJBWV" },
-  { "Category": "Imagens", "Name": "Fotos", "Id": "Windows.Photos", "StoreId": "9WZDNCRFJBH4" },
-  { "Category": "Sistema", "Name": "Feedback Hub", "Id": "WindowsFeedbackHub", "StoreId": "9NBLGGH4R32N" },
-  { "Category": "Produtividade", "Name": "Sticky Notes", "Id": "StickyNotes", "StoreId": "9NBLGGH4QGHW" },
-  { "Category": "Sistema", "Name": "Assistência Rápida", "Id": "QuickAssist", "StoreId": "9P7BP5VNWKX5" },
-  { "Category": "Mídia", "Name": "Paint", "Id": "Paint", "StoreId": "9PCFS5B6T72H" },
-  { "Category": "Mídia", "Name": "Spotify", "Id": "Spotify", "StoreId": "9NCBCSZSJRSB" },
-  { "Category": "Ferramentas", "Name": "Calculadora", "Id": "WindowsCalculator", "StoreId": "9WZDNCRFHVN5" },
-  { "Category": "Ferramentas", "Name": "Alarmes e Relógio", "Id": "WindowsAlarms", "StoreId": "9WZDNCRFJ3PR" },
-  { "Category": "Mídia", "Name": "Câmera", "Id": "WindowsCamera", "StoreId": "9WZDNCRFJBBG" },
-  { "Category": "Produtividade", "Name": "Email e Calendário", "Id": "windowscommunicationsapps", "StoreId": "9WZDNCRFHVQM" },
-  { "Category": "Ferramentas", "Name": "Ferramenta de Captura", "Id": "ScreenSketch", "StoreId": "9MZ95KL8MR0L" },
-  { "Category": "Produtividade", "Name": "Microsoft To Do", "Id": "Todos", "StoreId": "9NBLGGH5R558" },
-  { "Category": "Produtividade", "Name": "Bloco de notas do Window", "Id": "WindowsNotepad", "StoreId": "9MSMLRH6LZF3" }
+  { "Category": "Notícias", "Name": "Bing News", "Id": "BingNews", "StoreId": "9WZDNCRFHVFW", "Status": "" },
+  { "Category": "Clima", "Name": "Bing Weather", "Id": "BingWeather", "StoreId": "9WZDNCRFJ3Q2", "Status": "" },
+  { "Category": "Mídia", "Name": "Filmes e TV", "Id": "ZuneVideo", "StoreId": "9WZDNCRFJ3P2", "Status": "" },
+  { "Category": "Ferramentas", "Name": "Gravador", "Id": "SoundRecorder", "StoreId": "9WZDNCRFHWKN", "Status": "" },
+  { "Category": "3D", "Name": "3D Viewer", "Id": "3DViewer", "StoreId": "9NBLGGH42THS", "Status": "" },
+  { "Category": "Xbox", "Name": "Xbox Game Bar", "Id": "GamingOverlay", "StoreId": "9NZKPSTSNW4P", "Status": "" },
+  { "Category": "Sistema", "Name": "Vincular Celular", "Id": "YourPhone", "StoreId": "9NMPJ99VJBWV", "Status": "" },
+  { "Category": "Imagens", "Name": "Fotos", "Id": "Windows.Photos", "StoreId": "9WZDNCRFJBH4", "Status": "" },
+  { "Category": "Sistema", "Name": "Feedback Hub", "Id": "WindowsFeedbackHub", "StoreId": "9NBLGGH4R32N", "Status": "" },
+  { "Category": "Produtividade", "Name": "Sticky Notes", "Id": "StickyNotes", "StoreId": "9NBLGGH4QGHW", "Status": "" },
+  { "Category": "Sistema", "Name": "Assistência Rápida", "Id": "QuickAssist", "StoreId": "9P7BP5VNWKX5", "Status": "" },
+  { "Category": "Mídia", "Name": "Paint", "Id": "Paint", "StoreId": "9PCFS5B6T72H", "Status": "" },
+  { "Category": "Mídia", "Name": "Spotify", "Id": "Spotify", "StoreId": "9NCBCSZSJRSB", "Status": "" },
+  { "Category": "Ferramentas", "Name": "Calculadora", "Id": "WindowsCalculator", "StoreId": "9WZDNCRFHVN5", "Status": "" },
+  { "Category": "Ferramentas", "Name": "Alarmes e Relógio", "Id": "WindowsAlarms", "StoreId": "9WZDNCRFJ3PR", "Status": "" },
+  { "Category": "Mídia", "Name": "Câmera", "Id": "WindowsCamera", "StoreId": "9WZDNCRFJBBG", "Status": "" },
+  { "Category": "Produtividade", "Name": "Email e Calendário", "Id": "windowscommunicationsapps", "StoreId": "9WZDNCRFHVQM", "Status": "" },
+  { "Category": "Ferramentas", "Name": "Ferramenta de Captura", "Id": "ScreenSketch", "StoreId": "9MZ95KL8MR0L", "Status": "" },
+  { "Category": "Produtividade", "Name": "Microsoft To Do", "Id": "Todos", "StoreId": "9NBLGGH5R558", "Status": "" },
+  { "Category": "Produtividade", "Name": "Bloco de notas do Window", "Id": "WindowsNotepad", "StoreId": "9MSMLRH6LZF3", "Status": "" }
 ]
+
 
 
 
