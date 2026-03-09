@@ -1,4 +1,5 @@
 [
+  { "Category": "Essenciais", "Name": "Avast Free Antivirus", "Id": "AVASTSoftware.AvastFreeAntivirus", "Status": "" },
   { "Category": "Essenciais", "Name": "Mozilla Firefox", "Id": "Mozilla.Firefox", "Status": "" },
   { "Category": "Essenciais", "Name": "Adobe Acrobat Reader", "Id": "Adobe.Acrobat.Reader.64-bit" , "Status": "" },
   { "Category": "Essenciais", "Name": "LibreOffice", "Id": "TheDocumentFoundation.LibreOffice" , "Status": "" },
@@ -24,6 +25,7 @@
   { "Category": "Dev", "Name": "Python 3.14", "Id": "Python.Python.3.14" , "Status": "" },
   { "Category": "Dev", "Name": "PostgreSQL 18", "Id": "PostgreSQL.PostgreSQL.18" , "Status": "" }
 ]
+
 
 
 
