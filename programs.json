@@ -1,28 +1,28 @@
-[
-{ "Category": "Segurança","Name": "Malwarebytes","Id": "Malwarebytes.Malwarebytes","Status": "" },
-{ "Category": "Essenciais","Name": "Google Chrome","Id": "Google.Chrome","Status": "" },
-{ "Category": "Essenciais","Name": "Mozilla Firefox","Id": "Mozilla.Firefox","Status": "" },
-{ "Category": "Essenciais","Name": "Adobe Acrobat Reader","Id": "Adobe.Acrobat.Reader.64-bit","Status": "" },
-{ "Category": "Essenciais","Name": "LibreOffice","Id": "TheDocumentFoundation.LibreOffice","Status": "" },
-{ "Category": "Essenciais","Name": "7-Zip","Id": "7zip.7zip","Status": "" },
-{ "Category": "Essenciais","Name": "VLC media player","Id": "VideoLAN.VLC","Status": "" },
-{ "Category": "Essenciais","Name": "Bitwarden","Id": "Bitwarden.Bitwarden","Status": "" },
-{ "Category": "Gamer","Name": "Steam","Id": "Valve.Steam","Status": "" },
-{ "Category": "Gamer","Name": "Discord","Id": "Discord.Discord","Status": "" },
-{ "Category": "Gamer","Name": "OBS Studio","Id": "OBSProject.OBSStudio","Status": "" },
-{ "Category": "Gamer","Name": "Epic Games Launcher","Id": "EpicGames.EpicGamesLauncher","Status": "" },
-{ "Category": "Gamer","Name": "Ubisoft Connect","Id": "Ubisoft.Connect","Status": "" },
-{ "Category": "Gamer","Name": "EA Desktop","Id": "ElectronicArts.EADesktop","Status": "" },
-{ "Category": "Gamer","Name": "Visual C++ 2015","Id": "Microsoft.VCRedist.2015+.x64","Status": "" },
-{ "Category": "Dev","Name": "VS Code","Id": "Microsoft.VisualStudioCode","Status": "" },
-{ "Category": "Dev","Name": "Notepad++","Id": "Notepad++.Notepad++","Status": "" },
-{ "Category": "Dev","Name": "PowerShell 7","Id": "Microsoft.PowerShell","Status": "" },
-{ "Category": "Dev","Name": "Git","Id": "Git.Git","Status": "" },
-{ "Category": "Dev","Name": "Node.js","Id": "OpenJS.NodeJS.LTS","Status": "" },
-{ "Category": "Dev","Name": "Eclipse Temurin JDK 17","Id": "EclipseAdoptium.Temurin.17.JDK","Status": "" }
-{ "Category": "Dev","Name": "Docker Desktop","Id": "Docker.DockerDesktop","Status": "" },
-{ "Category": "Dev","Name": "Python","Id": "Python.Python.3.14","Status": "" }
-]
+'[
+  { "Category": "Segurança", "Name": "Malwarebytes", "Id": "Malwarebytes.Malwarebytes", "Status": "" },
+  { "Category": "Essenciais", "Name": "Google Chrome", "Id": "Google.Chrome", "Status": "" },
+  { "Category": "Essenciais", "Name": "Mozilla Firefox", "Id": "Mozilla.Firefox", "Status": "" },
+  { "Category": "Essenciais", "Name": "Adobe Acrobat Reader", "Id": "Adobe.Acrobat.Reader.64-bit", "Status": "" },
+  { "Category": "Essenciais", "Name": "LibreOffice", "Id": "TheDocumentFoundation.LibreOffice", "Status": "" },
+  { "Category": "Essenciais", "Name": "7-Zip", "Id": "7zip.7zip", "Status": "" },
+  { "Category": "Essenciais", "Name": "VLC media player","Id": "VideoLAN.VLC", "Status": "" },
+  { "Category": "Essenciais", "Name": "Bitwarden", "Id": "Bitwarden.Bitwarden", "Status": "" },
+  { "Category": "Gamer", "Name": "Steam", "Id": "Valve.Steam", "Status": "" },
+  { "Category": "Gamer", "Name": "Discord", "Id": "Discord.Discord", "Status": "" },
+  { "Category": "Gamer", "Name": "OBS Studio", "Id": "OBSProject.OBSStudio", "Status": "" },
+  { "Category": "Gamer", "Name": "Epic Games Launcher","Id": "EpicGames.EpicGamesLauncher", "Status": "" },
+  { "Category": "Gamer", "Name": "Ubisoft Connect", "Id": "Ubisoft.Connect", "Status": "" },
+  { "Category": "Gamer", "Name": "EA Desktop", "Id": "ElectronicArts.EADesktop", "Status": "" },
+  { "Category": "Gamer", "Name": "Visual C++ 2015", "Id": "Microsoft.VCRedist.2015+.x64", "Status": "" },
+  { "Category": "Dev", "Name": "VS Code", "Id": "Microsoft.VisualStudioCode", "Status": "" },
+  { "Category": "Dev", "Name": "Notepad++", "Id": "Notepad++.Notepad++", "Status": "" },
+  { "Category": "Dev", "Name": "PowerShell 7", "Id": "Microsoft.PowerShell", "Status": "" },
+  { "Category": "Dev", "Name": "Git", "Id": "Git.Git","Status": "" },
+  { "Category": "Dev", "Name": "Node.js", "Id": "OpenJS.NodeJS.LTS", "Status": "" },
+  { "Category": "Dev", "Name": "Eclipse Temurin JDK 17", "Id": "EclipseAdoptium.Temurin.17.JDK", "Status": "" }
+  { "Category": "Dev", "Name": "Docker Desktop", "Id": "Docker.DockerDesktop", "Status": "" },
+  { "Category": "Dev", "Name": "Python", "Id": "Python.Python.3.14", "Status": "" }
+]'
 
 
 
