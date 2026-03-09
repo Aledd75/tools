@@ -19,10 +19,11 @@
   { "Category": "Dev", "Name": "PowerShell 7", "Id": "Microsoft.PowerShell", "Status": "" },
   { "Category": "Dev", "Name": "Git", "Id": "Git.Git","Status": "" },
   { "Category": "Dev", "Name": "Node.js", "Id": "OpenJS.NodeJS.LTS", "Status": "" },
-  { "Category": "Dev", "Name": "Eclipse Temurin JDK 17", "Id": "EclipseAdoptium.Temurin.17.JDK", "Status": "" }
+  { "Category": "Dev", "Name": "Eclipse Temurin JDK 17", "Id": "EclipseAdoptium.Temurin.17.JDK", "Status": "" },
   { "Category": "Dev", "Name": "Docker Desktop", "Id": "Docker.DockerDesktop", "Status": "" },
   { "Category": "Dev", "Name": "Python", "Id": "Python.Python.3.14", "Status": "" }
 ]
+
 
 
 
