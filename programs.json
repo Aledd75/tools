@@ -1,4 +1,4 @@
-'[
+[
   { "Category": "Segurança", "Name": "Malwarebytes", "Id": "Malwarebytes.Malwarebytes", "Status": "" },
   { "Category": "Essenciais", "Name": "Google Chrome", "Id": "Google.Chrome", "Status": "" },
   { "Category": "Essenciais", "Name": "Mozilla Firefox", "Id": "Mozilla.Firefox", "Status": "" },
@@ -22,7 +22,8 @@
   { "Category": "Dev", "Name": "Eclipse Temurin JDK 17", "Id": "EclipseAdoptium.Temurin.17.JDK", "Status": "" }
   { "Category": "Dev", "Name": "Docker Desktop", "Id": "Docker.DockerDesktop", "Status": "" },
   { "Category": "Dev", "Name": "Python", "Id": "Python.Python.3.14", "Status": "" }
-]'
+]
+
 
 
 
